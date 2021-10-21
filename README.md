@@ -95,15 +95,7 @@
         <section class="sec-partners" role="section">
             <hr />
             <h1>Our Partners</h1>
-            <div class="row">
-                <div class="logo-container">
-                    <img src="https://i.imgur.com/oSriTuP.png" alt="Google logo" />
-                </div>
-                </div>
-                <div class="logo-container">
-                    <img src="https://i.imgur.com/GdYoyxo.png" alt="Intel logo" />
-                </div>
-            </div>
+           
         </section>
     </main>
 </div>
